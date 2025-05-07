@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: D:\Work\Upwork\Benjamin Gatti\AMB82\Rev 3.1\WiFi Camera Rev 3.1.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=ShortCircuit|RuleName=ShortCircuit_LEDs_1|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=ShortCircuit_LEDs|Scope=Board|Allowed=1
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=Clearance_keep|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_JP|Scope=Board|Minimum=0.00
